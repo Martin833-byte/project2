@@ -53,6 +53,13 @@ audio {
 }
 
 
+section{
+	width: 80%;
+	max-width: 60rem;
+	margin: auto;
+}
+
+
 .index{
 	padding:2rem;
 }
