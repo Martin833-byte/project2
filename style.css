@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 body{
-  background-color:  #FFFFFF
+  background-color:  #FFFFFF;
   font-family: 'Roboto', sans-serif;
   margin: 2rem;
   }
@@ -47,6 +47,7 @@ p{
   
   
 audio {
+	display: block;
   margin: 1rem auto;
 }
 
