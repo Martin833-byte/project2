@@ -22,3 +22,15 @@ h1{
 p{
 	font-size: 1.1rem;
   }
+audio {
+  margin: 1rem auto;
+}
+.hero{
+	padding:2rem;
+}
+.about{
+	display: flex;
+}
+.resume{
+	margin-bottom: 2rem;
+}
