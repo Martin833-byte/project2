@@ -118,6 +118,18 @@ section{
 	color: #cc0000;
 }
 
+.about ul{
+	width: 60%;
+	margin: 2rem auto;
+	font-size: 1.1rem;
+}
+
+
+.about li{
+	margin-bottom: 0.5rem;
+}
+
+
 .resume{
 	margin-bottom: 2rem;
 }
