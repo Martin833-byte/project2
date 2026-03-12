@@ -2,3 +2,18 @@ body{
   background-color:  #FFFFFF
   font-family: Arial, sans-serif;
   }
+  
+nav ul{
+  list-style: none;
+ }
+ 
+nav a{
+  list-style: none;
+ }
+ 
+h1{
+  text-decoration: none;
+ }
+p{
+	font-size: 1.1rem;
+  }
