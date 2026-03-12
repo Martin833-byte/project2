@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 body{
   background-color:  #FFFFFF;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
   margin: 2rem;
   }
   
 h1{
-	text-algin: center;
+	text-align: center;
 	font-size: 2.2rem;
 	margin-bottom: 1rem;
+}
 	
 	
 h2{
