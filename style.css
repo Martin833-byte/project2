@@ -59,6 +59,21 @@ section{
 	margin: auto;
 }
 
+.index h1{
+	text-align: center;
+	color: #2c3e50;
+}
+
+
+.index section{
+	width: 80%;
+	max-width: 60rem;
+	margin: 2rem auto;
+	padding: 2rem;
+	background-color: #f9f9f9;
+	border-radius: 8px;
+}
+
 
 .index{
 	padding:2rem;
